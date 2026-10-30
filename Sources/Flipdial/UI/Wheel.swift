@@ -199,7 +199,7 @@ final class WheelHostView: NSView {
 
 // MARK: - SwiftUI
 
-private let accent = Color(red: 1.0, green: 0.55, blue: 0.1)
+private let accent = Color(red: 1.0, green: 0.357, blue: 0.161)   // #FF5B29, the logo orange
 
 struct WheelView: View {
     @ObservedObject var model: WheelModel
